@@ -1,0 +1,6 @@
+line_length: 160
+
+disabled_rules:
+    - colon
+opt_in_rules:
+    - missing_docs
